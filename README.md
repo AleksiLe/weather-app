@@ -12,6 +12,6 @@ Clicking on the map gives a chart of days temperament from that location.
 
 ## Knows errors
 
--Mouse Clicks cannot return coordinates if clicked outside the initial map.
--Responsiveness still lacking.
+- Mouse Clicks cannot return coordinates if clicked outside the initial map.
+- Responsiveness still lacking.
 
