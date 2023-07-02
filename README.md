@@ -6,8 +6,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
+## How to use
+
+Clicking on the map gives a chart of days temperament from that location.
+
 ## Knows errors
 
--Mouse Clicks cannot return coordinates if clicked outside the initial map
--Responsiveness still lacking
+-Mouse Clicks cannot return coordinates if clicked outside the initial map.
+-Responsiveness still lacking.
 
